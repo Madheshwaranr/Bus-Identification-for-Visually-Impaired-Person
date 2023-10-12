@@ -1,27 +1,53 @@
 # Bus-Identification-for-Visually-Impaired-Person
-  The aim of this work of wireless communication by radio frequency is to 
-simplify the movements of the visually impaired. For someone who is completely 
-blind, every day presents his or her challenges. But the biggest problem is still 
-travelling by public transport. Usually, travelling by bus is considered to be safe 
-and comfortable, but when it comes to outdoor environments, it is very difficult to 
-manage navigation for people who were born completely blind.The visually 
-impaired have adopted various measures to access public transport, which make 
-them dependent on others, some of which are unreliable. So, keeping in mind these 
-problems, we have come up with an idea to help exclude the visually impaired 
-people who are daily commuters accessing public transport through the use of 
-recent advancements in technology. The goal is to design and propose a model that 
-will help visually impaired individuals navigate their outdoor environment and 
-address their need for identification.The proposed system includes two detection 
-sub-systems: (i) the personal assistance segment of the visually impaired person 
-(PAS)and (ii) the bus driver segment(BDS). When the user (a blind person) reaches 
-the bus station and places their access card in the PAS, Zigbee will send data to the 
-BDS Section. If the data from the PAS matches with tha BDS. At that time, the 
-conductor will receive a beep sound and some text will be printed in the LCD 
-display near to the driver. After this BDS section will send and return data to the 
-PAS section and the Voice playback module will give some command through the 
-speaker to the visually impaired person. Thus the two-way communication, 
-wireless communication is carried out between the bus driver and the visually 
-impaired person using an RF module. The result shows that the proposed system 
-exhibits better safety, cost, and practicality in performance.
-Keywords: Personal Assistance Segment(PAS), RFID Reader, Zigbee, Bus 
-Driver Segment(BDS), Voice playback module, LCD Display.
+
+Table of Contents
+Introduction
+Problem Statement
+Solution Overview
+Key Components
+How It Works
+Benefits
+Keywords
+Contributing
+License
+Introduction
+Welcome to the Wireless Communication for Visually Impaired Public Transport Accessibility project repository! Our aim is to simplify the daily commute of visually impaired individuals by leveraging the power of wireless communication and radio frequency technology.
+
+Problem Statement
+Every day, visually impaired individuals face numerous challenges, with one of the most significant being their reliance on public transport. While public buses are generally considered safe and comfortable, navigating outdoor environments remains a daunting task for those born with complete blindness. Current measures to access public transport often make them dependent on others, leading to unreliable and inefficient solutions.
+
+Solution Overview
+To address these challenges, we have developed a groundbreaking system that harnesses recent advancements in technology. Our goal is to design and propose a model that empowers visually impaired individuals to independently and confidently navigate their outdoor environment, especially when accessing public transportation.
+
+Key Components
+Our system comprises two essential detection sub-systems:
+
+Personal Assistance Segment (PAS): This segment is designed to assist visually impaired individuals. It involves an RFID reader, Zigbee technology, and a Voice Playback module.
+
+Bus Driver Segment (BDS): The BDS ensures smooth communication between the visually impaired passenger and the bus driver. It includes a Radio Frequency (RF) module, Zigbee, and an LCD Display.
+
+How It Works
+Our innovative two-way communication system functions as follows:
+
+When a blind person arrives at the bus station, they place their access card in the PAS segment.
+The PAS segment sends data to the BDS segment using Zigbee.
+If the data from the PAS matches with that in the BDS, the conductor receives a beep sound, and text is displayed on the LCD near the driver.
+The BDS section then sends a response to the PAS section.
+The Voice Playback module provides voice commands to the visually impaired person.
+As a result, two-way wireless communication is established between the bus driver and the visually impaired individual, ensuring safe and efficient navigation.
+Benefits
+Our system offers a range of advantages:
+
+Enhanced Safety: Improved safety for visually impaired passengers by facilitating efficient communication with the bus driver.
+
+Cost-Effective: A practical and cost-effective solution that can be widely implemented.
+
+Practicality: Our solution addresses real-world challenges faced by visually impaired individuals in their daily commutes.
+
+Keywords
+Personal Assistance Segment (PAS)
+RFID Reader
+Zigbee
+Bus Driver Segment (BDS)
+Voice Playback Module
+LCD Display
